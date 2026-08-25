@@ -1,0 +1,7 @@
+Portfolio Summary
+Symbol  Qty   Price     Value     
+TSLA    500   $250      $125000   
+GOOGL   852   $140      $119280   
+NFLX    5852  $470      $2750440  
+
+Total investment value: $2994720
